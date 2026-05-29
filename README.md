@@ -164,8 +164,8 @@ class SanthoshKumar:
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| 🔗 **[Customer Churn Analysis System](https://github.com/thesanthosh-dev)** | Python · XGBoost · FastAPI | End-to-end churn prediction with customer segmentation; behavioral & sentiment-based feature engineering; deployed as real-time REST API via FastAPI |
-| 🧠 **[Brain Tumor Classification using CNN](https://github.com/thesanthosh-dev)** | TensorFlow · CNN · Deep Learning | MRI image classification model achieving **95%+ validation accuracy**; applied advanced image augmentation & preprocessing for improved generalization |
+| 🔗 **[Customer Churn Analysis System]([https://github.com/thesanthosh-dev](https://github.com/TheSanthosh-dev/Customer-Churn-Prediction-for-Food-Delivery-Platforms))** | Python · XGBoost · FastAPI | End-to-end churn prediction with customer segmentation; behavioral & sentiment-based feature engineering; deployed as real-time REST API via FastAPI |
+| 🧠 **[Brain Tumor Classification using CNN]([https://github.com/thesanthosh-dev](https://github.com/TheSanthosh-dev/Tumor-Classification-ML))** | TensorFlow · CNN · Deep Learning | MRI image classification model achieving **95%+ validation accuracy**; applied advanced image augmentation & preprocessing for improved generalization |
 | 🤖 **[LLM-Based Question Answering System](https://github.com/thesanthosh-dev)** | Transformers · PyTorch · HuggingFace | Transformer-based QA system with fine-tuned language models; enhanced contextual understanding using Hugging Face pipelines |
 
 </div>
