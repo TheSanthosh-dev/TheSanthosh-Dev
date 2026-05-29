@@ -24,7 +24,7 @@ class SanthoshKumar:
 
     name        = "SanthoshKumar S"
     location    = "Tiruppur, Tamil Nadu, India 🇮🇳"
-    degree      = "B.Tech CSE & Business Systems @ KGISL (2026)"
+    degree      = "B.Tech Computer Science & Business Systems @ KGISL (2026)"
     email       = "TheSanthosh.dev@gmail.com"
 
     stack = [
@@ -89,10 +89,10 @@ class SanthoshKumar:
 
 <div align="center">
   <a href="https://github.com/SanthoshKumar">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=SanthoshKumar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=thesanthosh-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/SanthoshKumar">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthoshKumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theSanthosh-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
   </a>
 </div>
 
@@ -164,9 +164,9 @@ class SanthoshKumar:
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| 🔗 **[Customer Churn Analysis System](https://github.com/SanthoshKumar)** | Python · XGBoost · FastAPI | End-to-end churn prediction with customer segmentation; behavioral & sentiment-based feature engineering; deployed as real-time REST API via FastAPI |
-| 🧠 **[Brain Tumor Classification using CNN](https://github.com/SanthoshKumar)** | TensorFlow · CNN · Deep Learning | MRI image classification model achieving **95%+ validation accuracy**; applied advanced image augmentation & preprocessing for improved generalization |
-| 🤖 **[LLM-Based Question Answering System](https://github.com/SanthoshKumar)** | Transformers · PyTorch · HuggingFace | Transformer-based QA system with fine-tuned language models; enhanced contextual understanding using Hugging Face pipelines |
+| 🔗 **[Customer Churn Analysis System](https://github.com/thesanthosh-dev)** | Python · XGBoost · FastAPI | End-to-end churn prediction with customer segmentation; behavioral & sentiment-based feature engineering; deployed as real-time REST API via FastAPI |
+| 🧠 **[Brain Tumor Classification using CNN](https://github.com/thesanthosh-dev)** | TensorFlow · CNN · Deep Learning | MRI image classification model achieving **95%+ validation accuracy**; applied advanced image augmentation & preprocessing for improved generalization |
+| 🤖 **[LLM-Based Question Answering System](https://github.com/thesanthosh-dev)** | Transformers · PyTorch · HuggingFace | Transformer-based QA system with fine-tuned language models; enhanced contextual understanding using Hugging Face pipelines |
 
 </div>
 
@@ -195,8 +195,8 @@ class SanthoshKumar:
 
 | Degree | Institution | Year | Score |
 |:-------|:-----------|:-----|:------|
-| 🎓 B.Tech — Computer Science & Business Systems | KGISL Institute of Technology, Coimbatore | 2022 – 2026 | Pursuing |
-| 📚 Higher Secondary Education (HSC) | Kongu Vellalar Matric Hr. Sec. School, Tiruppur | 2021 – 2022 | — |
+| 🎓 B.Tech — Computer Science & Business Systems | KGISL Institute of Technology, Coimbatore | 2022 – 2026 | 
+| 📚 Higher Secondary Education (HSC) | Kongu Vellalar Matric Hr. Sec. School, Tiruppur | 2021 – 2022 | 
 
 </div>
 
@@ -226,10 +226,10 @@ class SanthoshKumar:
   <a href="mailto:TheSanthosh.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://linkedin.com/in/santhoshkumar">
+  <a href="https://linkedin.com/in/thesanthosh-dev">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/SanthoshKumar">
+  <a href="https://github.com/thesanthosh-dev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
