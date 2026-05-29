@@ -8,10 +8,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SanthoshKumar&label=Profile+Views&color=70a5fd&style=flat-square" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/SanthoshKumar?label=Followers&style=flat-square&color=bf91f3" alt="followers"/>
-</p>
+
 
 ---
 
